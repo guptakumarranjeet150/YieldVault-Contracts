@@ -8,3 +8,5 @@ tarpaulin-report.html
 cobertura.xml
 coverage.xml
 *.lcov
+config.bat
+node_modules
